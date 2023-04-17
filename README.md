@@ -49,6 +49,8 @@ The Y input is read across the top row and X, the row below.
 
 
 Exercise 2: This was built utilizing 4 Full Adder circuits and a mux preceded by a Not, this flips the bits for subtraction. The initial circuit was then miniaturized to a custom circuit and utilized for the final circuit design.
-When the “subtract” input is dark it is in “addition mode”. Depressing and lighting the subtract input converts the circuit into “subtraction mode”. Per instructions, Negative and Overflow are not accounted for in this exercise.
+When the “subtract” input is dark it is in “addition mode”. Depressing and lighting the subtract input converts the circuit into “subtraction mode”. 
+
+Note: Negative and Overflow are not accounted for in this circuit.
 
 ![Screenshot 2023-04-17 at 3 03 12 PM](https://user-images.githubusercontent.com/49410936/232585742-c681c298-3dc7-41c0-a4e5-6f4bc50f11fe.png)
