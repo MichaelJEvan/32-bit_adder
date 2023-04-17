@@ -6,12 +6,16 @@ Note: 4-bit adder-subtractor digital circuit files are also provided.
 
 
 
-Note: All the circuits created for this project were done with the program “Digital” as per our previous discussions. They will not run on any other application to my knowledge. The files are recognized by their .dig extension.
+Note: All the circuits created for this project were done utilizing the program “Digital”. 
 
+They will not run on any other application to my knowledge. 
+
+The files are recognized by their .dig extension.
 
 The two main files to run are: 32_bit_adder.dig & Final_4bit_add_sub.dig
 
 
+A copy of the software "Digital" can be obtained from the github link:
 https://github.com/hneemann/Digital
 
 
