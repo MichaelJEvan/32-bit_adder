@@ -6,13 +6,13 @@ Note: 4-bit adder-subtractor digital circuit files are also provided.
 
 
 
-Note: All the circuits created for this project were done utilizing the program “Digital”. 
+Note: All the circuits created for this project were done so utilizing the program “Digital” and can be run and modified utilizing this program. 
 
 They will not run on any other application to my knowledge. 
 
 The files are recognized by their .dig extension.
 
-The two main files to run are: 32_bit_adder.dig & Final_4bit_add_sub.dig
+The two main files to run are: 32_bit_adder.dig & Final_4bit_add_sub.dig but the smaller individual circuits may be run on their own or from within the final circuit designs by Right Clicking on the custom circuits and running them in their own individual window.
 
 
 A copy of the software "Digital" can be obtained from the github link:
