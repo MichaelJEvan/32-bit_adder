@@ -7,9 +7,15 @@
 Note: All the circuits created for this project were done with the program “Digital” as per our previous discussions. They will not run on any other application to my knowledge. The files are recognized by their .dig extension.
 The two main files to run are: 32_bit_adder.dig & Final_4bit_add_sub.dig
 https://github.com/hneemann/Digital
+
+
 IMPORTANT: All files for this assignment must remain in the folder provided! Removing or moving any files from the final project folder “CIS323_Assign2_mevan” will not allow the final circuits to run. They run as a package. The program looks for all initial circuits created that are utilized in larger circuit projects so removing any from the folder renders the newly created circuit inoperable and components may not appear in the circuit.
+
+
 Warning: Do not save the folder on your Desktop or in the “Digital” software package folder. For some reason the program does not recognize folders created on my desktop or its own application folder, but does everywhere else. Not sure why.
 Note: I do all my development on an M1 MacBook Pro. All the circuits run without issue on my computer. If you have any difficulty running them please call me at cell: 570-947-9446 at your convenience if needed.
+
+
 Full Adder: this was initially created per the instructors instructions for the assignment. I then created an 8-bit adder to test the Full Adder circuit for functionality when daisy chained together for larger circuit design. The Cin & Cout are required for the circuit to run. Cin is set to 0 and is the Carry bit for subsequent Full_Adder circuits....Cout being the Carry bit.
 
 ![Screenshot 2023-04-17 at 2 58 47 PM](https://user-images.githubusercontent.com/49410936/232585333-e05eb6d4-ac6e-47b4-849c-38e0214fea2e.png)
