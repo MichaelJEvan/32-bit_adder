@@ -5,7 +5,11 @@
 
 
 Note: All the circuits created for this project were done with the program “Digital” as per our previous discussions. They will not run on any other application to my knowledge. The files are recognized by their .dig extension.
+
+
 The two main files to run are: 32_bit_adder.dig & Final_4bit_add_sub.dig
+
+
 https://github.com/hneemann/Digital
 
 
