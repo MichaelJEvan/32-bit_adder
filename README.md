@@ -1,5 +1,7 @@
 # 32-bit_adder[Read Me Adder Circuits.pdf](https://github.com/MichaelJEvan/32-bit_adder/files/11254834/Read.Me.Adder.Circuits.pdf)
 
+4-bit adder-subtractor also provided.
+
 ![Screenshot 2023-04-17 at 3 04 30 PM](https://user-images.githubusercontent.com/49410936/232586094-258b8667-0ab6-4e3b-868d-cda1d3906ec2.png)
 
 
