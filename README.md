@@ -25,6 +25,9 @@ Note: I do all my development on an M1 MacBook Pro. All the circuits run without
 
 Full Adder: this was initially created. I then created an 8-bit adder to test the Full Adder circuit for functionality when daisy chained together for larger circuit design. The Cin & Cout are required for the circuit to run. Cin is set to 0 and is the Carry bit for subsequent Full_Adder circuits....Cout being the Carry bit.
 
+
+Full Adder Circuit:
+
 ![Screenshot 2023-04-17 at 2 58 47 PM](https://user-images.githubusercontent.com/49410936/232585333-e05eb6d4-ac6e-47b4-849c-38e0214fea2e.png)
 
 ![Screenshot 2023-04-17 at 2 59 48 PM](https://user-images.githubusercontent.com/49410936/232585354-52d7c789-58b3-4551-b3a3-82fc2b203811.png)
