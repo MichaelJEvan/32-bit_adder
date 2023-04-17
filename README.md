@@ -1,8 +1,8 @@
 # 32-bit_adder[Read Me Adder Circuits.pdf](https://github.com/MichaelJEvan/32-bit_adder/files/11254834/Read.Me.Adder.Circuits.pdf)
 
-4-bit adder-subtractor also provided.
+Note: 4-bit adder-subtractor digital circuit files are also provided.
 
-![Screenshot 2023-04-17 at 3 04 30 PM](https://user-images.githubusercontent.com/49410936/232586094-258b8667-0ab6-4e3b-868d-cda1d3906ec2.png)
+![Screenshot 2023-04-17 at 3 26 50 PM](https://user-images.githubusercontent.com/49410936/232590721-11fde768-567c-4c0b-8ba3-f41bfa5dca51.png)
 
 
 
@@ -40,7 +40,9 @@ Their indications are as follows: Light = 1 & Dark = 0
 
 The Y input is read across the top row and X, the row below.
 
-![Screenshot 2023-04-17 at 3 02 02 PM](https://user-images.githubusercontent.com/49410936/232585470-05ae752c-daab-4d15-b741-07524cb489be.png)
+![Screenshot 2023-04-17 at 3 23 23 PM](https://user-images.githubusercontent.com/49410936/232590322-ba52cb8c-c9fc-45ea-a872-736c028e8a51.png)
+
+
 
 Exercise 2: This was built utilizing 4 Full Adder circuits and a mux preceded by a Not, this flips the bits for subtraction. The initial circuit was then miniaturized to a custom circuit and utilized for the final circuit design.
 When the “subtract” input is dark it is in “addition mode”. Depressing and lighting the subtract input converts the circuit into “subtraction mode”. Per instructions, Negative and Overflow are not accounted for in this exercise.
